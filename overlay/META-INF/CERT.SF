@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: R7wqb16qXymruPOgEew94OaHqdI=
+
+Name: file_contexts
+SHA1-Digest-Manifest: ZNXweylxi8l5FFDqoaYkJSnHH7Q=
+
+Name: system/supersu/supersu.zip
+SHA1-Digest-Manifest: 6xtHLdUUObPDCVVjTsBfY+XGn/Q=
+
+Name: boot.img
+SHA1-Digest-Manifest: ZCWXRghPKewSaj/HEhtOnx3iChI=
+
+Name: system.patch.dat
+SHA1-Digest-Manifest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: P89UMZM+t/SGhEjmVg6aeTOYEjk=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest-Manifest: w4Fl+BjTlvURTC/W7zHwq3tjy78=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest-Manifest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: z9Z4Os9IbGupVmlF+Vk8FLQFErE=
+
+Name: system.transfer.list
+SHA1-Digest-Manifest: JewD4I2w8g5+ZuY8LQdNHOXl5wQ=
+
+Name: system.new.dat
+SHA1-Digest-Manifest: 5qDwCNMcXjKXHulJk0EXeXA5kqM=
+
